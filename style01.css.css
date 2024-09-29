@@ -347,5 +347,8 @@ body{
 
  .nav{
     display: none;
- }   
+ }
+ .media{
+     top:-282;
+}
 }
